@@ -6,6 +6,25 @@ import time
 import pygame
 
 
+def set():
+    rem = sd.askstring("Время напоминания", "Введите время в 24 часовом формате: ЧЧ:ММ")
+    if rem:
+        try:
+            hour = int(rem.split(":")[0])
+            minute = int(rem.split(":")[1])
+            now = datetime.datetime.now()
+            # print(now.strftime("%I:%M %p"))
+            print(now)
+            dt = now.replace(hour=hour, minute=minute)
+            # print(dt.strftime("%I:%M %p"))
+            print(dt)
+            t = dt.timestamp()
+
+            print(t)
+        except ValueError as e:
+            print(str(e))
+
+
 window = Tk()
 window.geometry("500x500")
 window.title("Напоминание")
