@@ -1,0 +1,56 @@
+﻿2024-10-12 19:24:47.921: [WARNING]: [[WARNING]] (scripts/client/Avatar.py, 3262): Invalid vehicle matrix
+2024-10-12 19:24:47.925: [INFO]: [Scaleform] Create GUI Component: 'gui/flash/battle.swf'
+2024-10-12 19:24:47.930: [WARNING]: [[WARNING]] (scripts/client/Avatar.py, 3262): Invalid vehicle matrix
+2024-10-12 19:24:48.084: [INFO]: [Scaleform] Create GUI Component: 'gui/flash/battleCrosshairsApp.swf'
+2024-10-12 19:24:50.917: [WARNING]: [[WARNING]] (scripts/client/Avatar.py, 3262): Invalid vehicle matrix
+2024-10-12 19:24:50.919: [INFO]: [Scaleform] Create GUI Component: 'system/maps/shadow.dds'
+2024-10-12 19:24:50.919: [INFO]: [Scaleform] Create GUI Component: 'system/maps/shadow.dds'
+2024-10-12 19:24:50.921: [WARNING]: [[WARNING]] (scripts/client/Avatar.py, 3262): Invalid vehicle matrix
+2024-10-12 19:24:50.924: [INFO]: [gui.app_loader.loader] Space is changed: BattleLoadingSpace() -> BattleSpace()
+2024-10-12 19:24:50.934: [INFO]: [gui.battle_control.controllers.dog_tags_ctrl] DogTagsController._updateArenaVehicleVictimsDogTags: victimsDogTags []
+2024-10-12 19:24:51.035: [INFO]: [Scaleform] Create GUI Component: 'gui/flash/battleVehicleMarkersApp.swf'
+2024-10-12 19:24:51.073: [INFO]: [Scaleform] Create GUI Component: 'gui/flash/battleCrosshairsApp.swf'
+2024-10-12 19:24:51.073: [INFO]: [Scaleform] Create GUI Component: 'gui/flash/battleCrosshairsApp.swf'
+2024-10-12 19:24:51.130: [INFO]: [VOIP.VOIPManager] ReceivedAvailableChannel: sip:confctl-g-5Bx0CHQl2hg06t.101.31626794@wotp.vivox.com
+2024-10-12 19:24:51.130: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 19:24:51.130: [DEBUG]: [VOIP.VOIPManager] VOIPManager.DisabledCurrentChannel 'sip:confctl-g-5Bx0CHQl2hg06t.101.31626794@wotp.vivox.com'
+2024-10-12 19:24:51.130: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 19:24:51.130: [NOTICE]: [NOTE] (scripts/client/account_helpers/settings_core/options.py, 764): Change state of channel voip: (False, 1736659935)
+2024-10-12 19:25:50.385: [ERROR]: [Scaleform] Missing "Micra Normal" glyph '_' (0x5f) in ".root1.instance7.instance8.targetPanelMC.targetFields.nameTF".
+2024-10-12 19:25:50.421: [ERROR]: [Scaleform] Missing "Micra Normal" glyph '_' (0x5f) in ".root1.instance7.instance8.targetPanelMC.targetFields.nameTF".
+2024-10-12 19:26:49.722: [ERROR]: [Scaleform] Missing "Micra Normal" glyph '_' (0x5f) in ".root1.instance7.instance9.targetPanelMC.targetFields.nameTF".
+2024-10-12 19:28:37.688: [INFO]: [Vehicle] __onAppearanceReady(37395744)
+2024-10-12 19:28:41.419: [ERROR]: [SOUND] Event 2629078253 . [ERROR] The ID was not found
+2024-10-12 19:28:43.288: [ERROR]: [SOUND] Event 3716914694 . [ERROR] The ID was not found
+2024-10-12 19:28:49.489: [WARNING]: [ReloadEffect] Reload time(0.705684006214) is less than gun rammer effect time(GUN_RAMMER_TIME-1.5)
+2024-10-12 19:28:53.415: [ERROR]: [SOUND] Event 2629078253 . [ERROR] The ID was not found
+2024-10-12 19:28:55.289: [ERROR]: [SOUND] Event 3716914694 . [ERROR] The ID was not found
+2024-10-12 19:29:00.491: [INFO]: [Vehicle] __onAppearanceReady(37395752)
+2024-10-12 19:29:27.010: [NOTICE]: [NOTE] (scripts/client/helpers/statistics.py, 222): HANGAR LOADING STATE: CONNECTED - 2326.34106445
+2024-10-12 19:29:27.010: [ERROR]: [root] cannot stop collecting data - the location for reports was not provided...
+2024-10-12 19:29:27.010: [ERROR]: [root] failed to generate a report - location was not provided (None)!
+2024-10-12 19:29:27.010: [INFO]: [BattleReplay] BattleReplay.onReplayTerminated: reason=ReplayTerminatedReason.REPLAY_STOPPED_PLAYBACK
+2024-10-12 19:29:27.060: [INFO]: [VOIP.VOIPManager] LeaveChannel
+2024-10-12 19:29:27.060: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 19:29:27.060: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 19:29:27.061: [NOTICE]: [NOTE] (scripts/client/account_helpers/settings_core/options.py, 764): Change state of channel voip: (False, 0)
+2024-10-12 19:29:27.122: [INFO]: [Avatar] [INIT_STEPS] Avatar.onLeaveWorld
+2024-10-12 19:29:27.123: [INFO]: [OwnVehicle] onLeaveWorld 37395740
+2024-10-12 19:29:27.129: [INFO]: [Avatar] [INIT_STEPS] Avatar.onBecomeNonPlayer
+2024-10-12 19:29:27.144: [DEBUG]: [VOIP.VOIPManager] SetMicMute: True
+2024-10-12 19:29:27.175: [ERROR]: [Scaleform] Type[ERROR]: [ERROR] #1009: Cannot access a property or method of a null object reference.
+2024-10-12 19:29:28.147: [NOTICE]: [NOTE] (scripts/client/helpers/statistics.py, 222): HANGAR LOADING STATE: SHOW GUI - 2327.47802734
+2024-10-12 20:09:16.120: [DEBUG]: [VOIP.VOIPManager] SetMicMute: True
+2024-10-12 20:09:16.392: [INFO]: [WebBrowser] WebExternalCache setPause(False)
+2024-10-12 20:10:11.196: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 20:10:11.196: [DEBUG]: [VOIP.VOIPManager] VOIPManager.DisabledCurrentChannel 'sip:confctl-g-pO2ZRB2fXeEMBn.101.31626766@wotp.vivox.com'
+2024-10-12 20:10:11.196: [DEBUG]: [VOIP.VOIPFsm] LOGGED_IN not changed
+2024-10-12 20:10:11.197: [NOTICE]: [NOTE] (scripts/client/account_helpers/settings_core/options.py, 764): Change state of channel voip: (False, 1449880516)
+2024-10-12 20:10:31.507: [INFO]: [Vehicle] __onAppearanceReady(38227599)
+2024-10-12 20:10:36.980: [INFO]: [Vehicle] __onAppearanceReady(38415209)
+2024-10-12 20:10:54.791: [INFO]: [Vehicle] __onAppearanceReady(38415205)
+2024-10-12 20:12:13.911: [INFO]: [Vehicle] __onAppearanceReady(38227600)
+2024-10-13 15:28:04.453: [ERROR]: [root] cannot stop collecting data - the location for reports was not provided...
+2024-10-13 15:28:04.453: [ERROR]: [root] failed to generate a report - location was not provided (None)!
+2024-10-13 15:28:04.453: [INFO]: [BattleReplay] BattleReplay.onReplayTerminated: reason=ReplayTerminatedReason.REPLAY_STOPPED_PLAYBACK
+
